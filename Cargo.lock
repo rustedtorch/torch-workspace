@@ -2,7 +2,6 @@
 name = "example"
 version = "0.1.0"
 dependencies = [
- "tensor-lit 0.1.0",
  "torch 0.1.0",
 ]
 
@@ -10,13 +9,6 @@ dependencies = [
 name = "num-traits"
 version = "0.2.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-
-[[package]]
-name = "tensor-lit"
-version = "0.1.0"
-dependencies = [
- "torch 0.1.0",
-]
 
 [[package]]
 name = "torch"
