@@ -3,5 +3,5 @@
 members = [
     "torch",
     "tensor-lit",
+    "example",
 ]
-
