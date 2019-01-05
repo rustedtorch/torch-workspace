@@ -1,3 +1,8 @@
 [submodule "example"]
 	path = example
-	url = git@github.com:rustedtorch/example.git
+    url = git@github.com:rustedtorch/example.git
+
+[submodule "torch"]
+	path = torch
+    url = git@github.com:rustedtorch/torch.git
+
